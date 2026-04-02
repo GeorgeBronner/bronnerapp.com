@@ -1,0 +1,12 @@
+services:
+  bronnerapp:
+    build: .
+    container_name: bronnerapp
+    restart: unless-stopped
+    expose:
+      - "3000"
+
+networks:
+  default:
+    external: true
+    name: nginx-proxy
