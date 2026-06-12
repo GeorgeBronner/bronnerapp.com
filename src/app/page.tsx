@@ -10,6 +10,12 @@ const projects = [
     href: "https://cfb2.bronnerapp.com",
   },
   {
+    name: "PokerNightCap",
+    description:
+      "Real-time multiplayer Texas Hold'em — join with a room code, no accounts needed.",
+    href: "https://poker.bronnerapp.com",
+  },
+  {
     name: "NamePocket",
     description: "An iOS app for remembering names.",
     href: "https://apps.apple.com/gb/app/namepocket/id6756529321",
