@@ -7,7 +7,7 @@ const projects = [
   {
     name: "College Football Tracker",
     description: "Track college football games and scores.",
-    href: "https://cfb2.bronnerapp.com",
+    href: "https://cfb.bronnerapp.com",
   },
   {
     name: "PokerNightCap",

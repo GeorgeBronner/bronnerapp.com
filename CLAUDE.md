@@ -16,7 +16,7 @@ Personal website for George Bronner, hosted at bronnerapp.com. Minimal/clean aes
   - Links to resume (PDF, no personal info)
   - Links to projects/apps
 - **golf.bronnerapp.com** — Golf Mapper app
-- **cfb2.bronnerapp.com** — College Football Tracker app
+- **cfb.bronnerapp.com** — College Football Tracker app
 
 ## Design
 - Minimal and clean
