@@ -1,13 +1,13 @@
 const projects = [
   {
     name: "Golf Mapper",
-    description: "A tool for mapping golf courses.",
+    description: "Track and map all of the golf courses you have played.",
     href: "https://golf.bronnerapp.com",
   },
   {
-    name: "College Football Tracker",
-    description: "Track college football games and scores.",
-    href: "https://cfb.bronnerapp.com",
+    name: "Sports Passport",
+    description: "Track all of the sporting events you have attended.",
+    href: "https://sportspassport2.bronnerapp.com",
   },
   {
     name: "PokerNightCap",
